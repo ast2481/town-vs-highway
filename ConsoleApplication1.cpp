@@ -1,4 +1,4 @@
-// ConsoleApplication1.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// Highway vs Town : This file contains the 'main' function. Program execution begins and ends there.
 //
 
 #include <iostream>
@@ -12,13 +12,11 @@ int main()
 
 	double distanceTown = tankSize * Townmpg;
 	double distanceHighway = tankSize * Highwaympg;
+	
+	cout << "Distance in Town: " << distanceTown << "miles" << endl;
+	cout << "Distance on Highway: " << distanceHighway << "miles" << endl;
 
-	cout << "Distance"
 	
-	
-	
-	
-	
-	std::cout 
+	return 0;
 }
 
